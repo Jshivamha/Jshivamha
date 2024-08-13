@@ -1,8 +1,7 @@
 
 <h3>Learning more in MERN</h3>
 
-<h3 align="left">Connect with me:</h3>
-<h4>jhashivam1383@gmail.com </h4>
+<h3 align="left">Connect with me:  jhashivam1383@gmail.com</h3>
 <p align="left">
 </p>
 
